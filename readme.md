@@ -1,5 +1,5 @@
-Install program first, then add onedrive in setup after login.  
-先安装程序，登录后在设置中添加onedrive。  
+
+
 
 #an app then deploy via connect to your github fork.  
 
