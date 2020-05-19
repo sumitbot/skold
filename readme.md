@@ -1,12 +1,9 @@
 Install program first, then add onedrive in setup after login.  
 先安装程序，登录后在设置中添加onedrive。  
 
-# Deploy to heroku  
-Official: https://heroku.com  
+#an app then deploy via connect to your github fork.  
 
-How to Install: Click the button [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy) to Deploy a new app, or create an app then deploy via connect to your github fork.  
 
-DEMO:  https://herooneindex.herokuapp.com/  
 
 # Deploy to VPS(Virtual Private Server) 部署到VPS或空间  
 How to Install:  
@@ -19,7 +16,7 @@ How to Install:
     4.Change the file config.php can be read&write (666 is suggested).  
     让代码中的config.php文件程序可读写，推荐chmod 666 config.php。  
     5.View the website in chrome or other.  
-    在浏览器中访问。  
+
 
 # Deploy to SCF  
 Official: https://cloud.tencent.com/product/scf  
